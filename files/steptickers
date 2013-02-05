@@ -1,0 +1,4 @@
+ # List of servers used for initial synchronization.
+server 0.rhel.pool.ntp.org
+server 1.rhel.pool.ntp.org
+server 2.rhel.pool.ntp.org
